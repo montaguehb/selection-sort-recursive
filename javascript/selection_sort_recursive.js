@@ -19,4 +19,8 @@ if (require.main === module) {
 module.exports = selectionSortRecursive;
 
 // Please add your pseudocode to this file
+//return once the length of the array is 1
+//find the lowest value in the array and put it as the left most value in a new array
+//everything to the right of that value should be the remaining values of the array
+//return the new array
 // And a written explanation of your solution
